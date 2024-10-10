@@ -3,9 +3,6 @@
 # [Try the website at this link](https://what-bird-is-that.streamlit.app/) 
 
 
-# Sample Usage
-
-https://github.com/nripstein/What-Bird-is-That/assets/98430636/d81f35ee-5861-441e-92ea-70b1de88bbda
 
 # Summary
 This project aims to classify bird species using deep learning techniques. It can identify over 527 species of bird with 97+% accuracy.
